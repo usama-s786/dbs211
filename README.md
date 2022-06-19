@@ -16,7 +16,7 @@
 - Apply database privilege and privacy policies to control user access to a database.
 
 
-Source: [Seneca College Website](https://www.senecacollege.ca/cgi-bin/subject?s1=WEB222](https://apps.senecacollege.ca/ssos/printOutline.do?subjectCode=DBS211&termCode=20221&state=common)
+Source: [Seneca College Website](https://apps.senecacollege.ca/ssos/printOutline.do?subjectCode=DBS211&termCode=20221&state=common)
 
 ------------------------
 
